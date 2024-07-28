@@ -1,4 +1,4 @@
-# Complete Frontend Web Development Course
+# React TypeScript Development Environment Setup
 
 Youtube - This repo is part of the Complete Frontend Web Development Course I am working on.
 
