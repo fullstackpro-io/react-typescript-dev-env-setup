@@ -1,6 +1,6 @@
 # Complete Frontend Web Development Course
 
-Youtube - Complete Frontend Web Development Course
+Youtube - This repo is part of the Complete Frontend Web Development Course I am working on.
 
 ## Full Playlist on Youtube
 
@@ -8,5 +8,5 @@ Youtube - Complete Frontend Web Development Course
 
 ## Installation
 
-`git clone https://github.com/fullstackpro-io/modjs.git`
+`git clone https://github.com/fullstackpro-io/react-typescript-dev-env-setup.git`
 `npm install`
